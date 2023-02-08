@@ -19,4 +19,4 @@
 3. Datasets:
 * Avito & MeituanAds
 
-#### [Contrastive Learning for Sequential Recommendation, ICDE](https://github.com/IvanWang0730/Recommendation-Paper/blob/main/Contrastive%20Learning%20for%20Sequential%20Recommendation.pdf)
+#### [Contrastive Learning for Sequential Recommendation, ICDE2022](https://github.com/IvanWang0730/Recommendation-Paper/blob/main/Contrastive%20Learning%20for%20Sequential%20Recommendation.pdf)
