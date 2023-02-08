@@ -20,3 +20,6 @@
 * Avito & MeituanAds
 
 #### [Contrastive Learning for Sequential Recommendation, ICDE2022](https://github.com/IvanWang0730/Recommendation-Paper/blob/main/Contrastive%20Learning%20for%20Sequential%20Recommendation.pdf)
+1. Motivation: 解决数据稀疏，只用传统信号监督网络不能学到很好的用户兴趣表示
+2. CL4SREC: Sequential Loss + Contrastive Learning Loss
+3. Three views: crop, mask, reorder 类似simcse中的dropout技巧
